@@ -24,7 +24,7 @@ Focado em construir uma base sólida em **Backend, Frontend, Fullstack, Design e
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
   
-- **Conhecimentos de Infra & Redes:** Modelo OSI, TCP/IP, IPv4/IPv6
+- **Redes:** Modelo OSI, TCP/IP, IPv4/IPv6
 
 ---
 
