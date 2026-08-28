@@ -10,7 +10,7 @@ Focado em construir uma base sólida em **Backend, Frontend, Fullstack, Design e
 
 - **Linguagens:** Python | JavaScript(aprendendo) | C++ (Básico)
 - **Bancos de Dados:** SQL, SQLite *(CRUD, Relacionamentos, FK)*
-- **Infra & Redes:** Modelo OSI, TCP/IP, IPv4/IPv6
+- **Redes:** Modelo OSI, TCP/IP, IPv4/IPv6
 - **Outros:** Git/GitHub, Arduino & Robótica
 
 ---
