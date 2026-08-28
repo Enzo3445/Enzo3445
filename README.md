@@ -9,8 +9,8 @@ Focado em construir uma base sólida em **Backend, Frontend, Fullstack, Design e
 ### 🛠️ Tecnologias & Conhecimentos
 
 - **Linguagens:**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) (intermediario terminando curso na freecodecamp.)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) (aprendendo)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) (intermediario terminando curso na freecodecamp.).<br>
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) (aprendendo).<br>
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) (Bem basico)
 
 - **Bancos de Dados:**  
