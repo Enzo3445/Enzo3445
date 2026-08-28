@@ -1,32 +1,42 @@
 # Hi there 👋, eu sou o Enzo Lima
 
 Estudante de Informática no CEEP Áureo de Oliveira Filho.  
- Estagiário na **AlmaTec** (empresa em formação, atuando no suporte a demandas e atividades práticas).  
+🧑‍💼 Estagiário na **AlmaTec** (empresa em formação, atuando no suporte a demandas e atividades práticas).  
 Focado em construir uma base sólida em **Backend, Frontend, Fullstack, Design e etc**.
 
 ---
 
 ### 🛠️ Tecnologias & Conhecimentos
 
-- **Linguagens:** Python | JavaScript(aprendendo) | C++ (Básico)
-- **Bancos de Dados:** SQL, SQLite *(CRUD, Relacionamentos, FK)*
-- **Redes:** Modelo OSI, TCP/IP, IPv4/IPv6
-- **Outros:** Git/GitHub, Arduino & Robótica
+- **Linguagens:**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) (intermediario terminando curso na freecodecamp.)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) (aprendendo)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) (Bem basico)
+
+- **Bancos de Dados:**  
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+- **Ferramentas & Outros:**  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+  
+- **Conhecimentos de Infra & Redes:** Modelo OSI, TCP/IP, IPv4/IPv6
 
 ---
 
-###  Projetos em Destaque
+### 📂 Projetos em Destaque
 
 - 🔐 **Sistema de Login:** Autenticação, validação e persistência em JSON. *(Python)*
 - ⌨️ **Keylogger Educacional:** Registro de eventos e integração com SQLite. *(Python + SQLite)*
-  
 
 ---
 
-###  Trilha de Aprendizado Atual
-`Python` ➔ `SQL` ➔ `Git/GitHub` ➔ `JavaScript` ➔ `Redes` ➔ `Linux` ➔ `Backend`  ➔ `Cybersecurity`
+### 🎯 Trilha de Aprendizado Atual
+`Python` ➔ `SQL` ➔ `Git/GitHub` ➔ `JavaScript` ➔ `Redes` ➔ `Linux` ➔ `Backend` ➔ `Cybersecurity`
 
 ---
 
-
-- GitHub: [@Enzo3445](https://github.com/Enzo3445)
+### 📬 Contato
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enzo3445)
