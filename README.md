@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, eu sou o Enzo Lima
 
-<!--
-**Enzo3445/Enzo3445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Informática no CEEP Áureo de Oliveira Filho.  
+🧑‍💼 Estagiário na **AlmaTec** (empresa em formação, atuando no suporte a demandas e atividades práticas).  
+Focado em construir uma base sólida em **Backend, Frontend, Fullstack, Design e etc**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Conhecimentos
+
+- **Linguagens:** Python | JavaScript(aprendendo) | C++ (Básico)
+- **Bancos de Dados:** SQL, SQLite *(CRUD, Relacionamentos, FK)*
+- **Infra & Redes:** Modelo OSI, TCP/IP, IPv4/IPv6
+- **Outros:** Git/GitHub, Arduino & Robótica
+
+---
+
+### 📂 Projetos em Destaque
+
+- 🔐 **Sistema de Login:** Autenticação, validação e persistência em JSON. *(Python)*
+- ⌨️ **Keylogger Educacional:** Registro de eventos e integração com SQLite. *(Python + SQLite)*
+  
+
+---
+
+### 🎯 Trilha de Aprendizado Atual
+`Python` ➔ `SQL` ➔ `Git/GitHub` ➔ `JavaScript` ➔ `Redes` ➔ `Linux` ➔ `Backend`  ➔ `Cybersecurity`
+
+---
+
+
+- GitHub: [@Enzo3445](https://github.com/Enzo3445)
