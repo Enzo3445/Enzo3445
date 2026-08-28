@@ -1,7 +1,7 @@
 # Hi there 👋, eu sou o Enzo Lima
 
 Estudante de Informática no CEEP Áureo de Oliveira Filho.  
-🧑‍💼 Estagiário na **AlmaTec** (empresa em formação, atuando no suporte a demandas e atividades práticas).  
+ Estagiário na **AlmaTec** (empresa em formação, atuando no suporte a demandas e atividades práticas).  
 Focado em construir uma base sólida em **Backend, Frontend, Fullstack, Design e etc**.
 
 ---
@@ -15,7 +15,7 @@ Focado em construir uma base sólida em **Backend, Frontend, Fullstack, Design e
 
 ---
 
-### 📂 Projetos em Destaque
+###  Projetos em Destaque
 
 - 🔐 **Sistema de Login:** Autenticação, validação e persistência em JSON. *(Python)*
 - ⌨️ **Keylogger Educacional:** Registro de eventos e integração com SQLite. *(Python + SQLite)*
@@ -23,7 +23,7 @@ Focado em construir uma base sólida em **Backend, Frontend, Fullstack, Design e
 
 ---
 
-### 🎯 Trilha de Aprendizado Atual
+###  Trilha de Aprendizado Atual
 `Python` ➔ `SQL` ➔ `Git/GitHub` ➔ `JavaScript` ➔ `Redes` ➔ `Linux` ➔ `Backend`  ➔ `Cybersecurity`
 
 ---
